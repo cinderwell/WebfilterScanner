@@ -1,0 +1,9 @@
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\obj\x86\Release\BarracudaScanner.Form1.resources
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\obj\x86\Release\BarracudaScanner.Properties.Resources.resources
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\bin\Release\BarracudaScanner.exe
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\bin\Release\BarracudaScanner.pdb
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\obj\x86\Release\BarracudaScanner.exe
+C:\Users\mitchelld\Dropbox\FXW work sync\Visual Studio 2010\Projects\BarracudaScanner\BarracudaScanner\obj\x86\Release\BarracudaScanner.pdb
